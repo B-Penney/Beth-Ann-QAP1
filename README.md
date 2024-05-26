@@ -1,1 +1,1 @@
-This repository is for the following QAPs for semester 2.
+This repository is for the first QAP of semester 2.
