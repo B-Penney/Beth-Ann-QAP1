@@ -58,3 +58,11 @@ article {
     max-width: 800px;
     margin: auto;
 }
+audio, iframe {
+    max-width: 100%; /* Updated */
+}
+
+iframe {
+    width: 100%; /* Updated */
+    max-width: 800px; 
+}
